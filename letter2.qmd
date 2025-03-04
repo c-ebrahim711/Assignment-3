@@ -1,0 +1,43 @@
+---
+title: "Letter To The Mayor"
+---
+
+An open letter to the mayor of NYC Dear **Mayor Adams**,
+
+I am writing this letter to you to inform you about the issues with *snow management* in the city. Here is the list of issues:
+
+1\. It is inconvenient
+
+2\. It costs a lot of money
+
+3\. It is not environmentally friendly
+
+> <span style="color:#037d50;">"Snow is managed very poorly in this city"- NYC Sanitation department employee <br>
+
+The following employees also agree with this statement:
+
+|  Name   | Years On the Job |
+|:-------:|-----------------:|
+|  John   |          4 years |
+|  Kelly  |          7 years |
+|  Kevin  |          5 years |
+|  Matt   |          8 years |
+| Anthony |         20 years |
+
+![](https://backiee.com/static/wpdb/wallpapers/3840x2160/176158.jpg){fig-align="center"}
+
+Please visit snow removal services to get more information about environmentally friendly practices. Or you can you watch this helpful video:
+
+<iframe width="1200" height="700" class="center" src="https://www.youtube.com/embed/BP-efRuIOfY?si=KFqVTT-Y7NkIRFCy" title="YouTube video player" frameborder="30" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+```{ojs}
+//| echo: false
+viewof letterAuthor = Inputs.text({value: "John Doe", label:"Your Name"})
+
+```
+
+Sincerely,
+
+\${letterAuthor}

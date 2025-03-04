@@ -1,0 +1,15 @@
+---
+title: "WebGIS"
+---
+
+WebGIS is an important skill in GIS industry. You can add cute pictures!
+
+# Introduction:
+
+![Cute Kitten](https://th.bing.com/th/id/OIP.uZ4iK1gyN6AqQaTGHS5rEQHaI3?rs=1&pid=ImgDetMain){fig-align="center" width="467"}
+
+<h2>
+
+Just to start with something cute, but seriously GIS is a potent tool to display data in a way that helps people understand. Using websites like this one make these helpful maps accessible to more people furthering their impact
+
+<h2/>
